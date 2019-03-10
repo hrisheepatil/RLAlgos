@@ -1,4 +1,6 @@
 import numpy as np
+import gym
 
-a = np.zeros((2,2))
-print(a)
+env = gym.make('FrozenLake-v0')
+env.reset()
+env.render()
