@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1552196035878">
+      <file name="/Dummy.txt" timestamp="1552196441846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/RLAlgos/scripts/Test.py" timestamp="1552195897894">
@@ -15,8 +15,8 @@
       <file name="/Python Console" timestamp="1552014568383">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/anaconda3/envs/RLAlgos/scripts/Q_learning.py" timestamp="1552195891998">
-        <mark key="[" line="31" column="20" />
+      <file name="$USER_HOME$/anaconda3/envs/RLAlgos/scripts/Q_learning.py" timestamp="1552196437113">
+        <mark key="[" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/anaconda3/envs/myprojects/scripts/learn_opencv.py" timestamp="1550819432932">
         <mark key="]" line="0" column="0" />
