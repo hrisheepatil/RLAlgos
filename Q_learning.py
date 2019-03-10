@@ -22,7 +22,6 @@ for n in range(n_episodes):
         next_state, reward, done, info = env.step(action)
         Q[current_state, action] = Q[current_state, action] + learning_rate*(reward + gamma * np.max(Q[next_state, :]) - Q[current_state, action])
         current_state = next_state
-
         t += 1
         if done:
             break
