@@ -1,6 +1,5 @@
 import numpy as np
 import gym
-import time
 
 env = gym.make('FrozenLake-v0')
 env.reset()
