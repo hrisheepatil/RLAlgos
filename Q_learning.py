@@ -26,6 +26,5 @@ for n in range(n_episodes):
         t += 1
         if done:
             break
-    print(n)
 print(Q)
 env.render()
