@@ -14,7 +14,7 @@ for n in range(n_episodes):
     current_state = env.reset()
     t = 0
     while t < max_trials:
-        if np.random.uniform(0,1) < 0.8:
+        if np.random.uniform(0, 1) < 0.8:
             action = env.action_space.sample()
         else:
             action = np.argmax(Q[current_state, :])
